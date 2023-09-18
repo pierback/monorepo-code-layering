@@ -1,0 +1,21 @@
+{
+  "name": "eslint-plugin-monorepo-code-layering",
+  "version": "0.0.1",
+  "main": "eslint-plugin-monorepo-code-layering.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fabian.pieringer@protonmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "8.49.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.0.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ]
+}
